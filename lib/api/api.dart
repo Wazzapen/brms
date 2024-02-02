@@ -1,5 +1,5 @@
 class API {
-  static const hostConnect = "http://192.168.0.5/brms";
+  static const hostConnect = "http://172.17.20.148/brms";
   static const hostConnectUser = "$hostConnect/user";
 
   static const validateEmail = "$hostConnect/user/validate_email.php";
